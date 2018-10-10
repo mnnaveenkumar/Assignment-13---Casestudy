@@ -1,0 +1,113 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    height: 910px;
+    background-color: rgb(90, 119, 133);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.outer{
+    border: 1px solid #bababa;;
+    width: 800px;
+    height: 900px;
+    margin: auto;
+    box-shadow: 5px 5px 8px rgba(37, 37, 37, 0.6);
+}
+
+.left{
+    float: left;
+    background-color: lightgray;
+    width: 250px;
+    height: 100%;
+}
+
+.first-row{
+    background-color: #555;
+    margin-top: 0px;
+    margin: auto;
+    height: 250px;
+}
+
+.right{
+    background-color: white;
+    float: right;
+    width: 550px;
+}
+
+#Name{
+    color:white;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 45px;
+    margin-bottom: 35px;
+}
+
+#ContactDetails, #PersonalityHighlights{
+    font-size: 11pt;
+    list-style-type: square;
+    padding-left: 35px;
+    line-height: 24px;           
+}
+
+#ContactDetails{
+    list-style: none;
+    padding-left: 20px;
+    line-height: 24px;
+}
+
+#Pic{
+    margin: auto;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 1px solid rgb(31, 30, 30);
+    background-color: aquamarine;
+    background-size: cover;
+    display: block;
+}
+
+.intro, .intro-title{
+    padding-top: 14px;
+}
+
+.Triangle-row{
+    width: 0;
+    height: 0;
+    border-top: 150px solid #555;
+    border-right: 250px solid transparent;
+}
+
+#highlightsTitle, .Contact{
+    background-color: #555;
+    color: white;
+    padding: 8px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.right{
+    height: 100%;
+}
+
+.info-panel, .info-panel, .info-panel{
+    height: 280px;
+    background-color: #ffffff;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    margin-top: 2px;
+}
+
+.basic-info-panel-head, .edu-info-panel-head, .exp-info-panel-head{
+    padding: 3px;
+    border-bottom: 2px solid #555;
+    border-bottom-width: thin;
+}
+
+#BasicInfo, #EducationInfo, #ExperienceInfo{
+    font-size: 11pt;
+    line-height: 16pt;
+}

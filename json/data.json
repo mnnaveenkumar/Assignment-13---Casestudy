@@ -1,0 +1,20 @@
+{
+    "Name"          : "M N Naveen Kumar",
+    "Pic"           :  "./images/naveen.jpg",
+    "Address"       : "Kumara Park West",
+    "City"          : "Bangalore",
+    "Country"       : "India",
+    "Phone"         : "99802 00210",
+    "Email"         : "mnnaveenkumar@gmail.com",
+    "Basic"         :   "Iam a professional Graphic Designer with over 7 years experience in <br> multi-national Company and over 13 years experience in advertising agency providing excellent customer support by producing creatives in both <br> Digital and Print Media. <br> <br> I am actively involved in maintaining the Brand according to the Companys' Brand Standards across various Customer centers, which include Floor/Environment Branding, Welcome Kits for customer visits, Collaterals like Brochures, Leaflets, Posters, Standees, Banners, Hoardings, Booklets, and also Internal Communicatrion including Mass Mailers, etc.",
+    "Education"     :   "Acadimic Certification in Diploma in Pharmacuiticals. <br><br> Honors Diploma in Software Engineering in a Private Computer School. ",
+    "Experience"    :  "Teaching Faculty in Computer School. 1996-98 <br><br>Desk Top Publisher in Ad Agency. 1998-99 <br><br> Graphic Designer in Ad Agency. 2000-2011 <br><br> Marcom Program Manager in MNC. 2011 till date <br><br>",
+    "Highlights"    : [
+        { "point"   : "Cheerful disposition" },
+        { "point"   : "Neat and well-organized" },
+        { "point"   : "Motivated by problem solving" },
+        { "point"   : "Independent worker" },
+        { "point"   : "Works well with desdlines" },
+        { "point"   : "Collaborative and efficient" }
+    ]
+}
